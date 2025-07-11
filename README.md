@@ -109,7 +109,6 @@ Model checkpoints are released under the CreativeML OpenRAIL-M license; see `LIC
 ## Community & Support
 
 * Twitter: [@FeetGen](https://twitter.com/FeetGenAI)  
-* Discord: `discord.gg/feetgen` (10k+ builders, nightly model drops)  
 * Email: `support@feet-gen.com`  
 
 Commercial SLAs, custom fine-tuning, and enterprise deployment assistance available—contact sales.
